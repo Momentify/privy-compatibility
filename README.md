@@ -3,7 +3,7 @@
 Do the following
 
 ```bash
-npm run install --legacy-peer-deps
+npm install
 npm run build
 npm run preview
 ```
